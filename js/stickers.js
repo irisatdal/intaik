@@ -29,5 +29,5 @@ function open_pkg() {
 }
 
 function show_sticker(sticker){
-    document.getElementById("sticker-pkg") .src= "dino1.PNG";
+    document.getElementById("sticker-pkg") .src= "./stickers/dino3.PNG";
 }
