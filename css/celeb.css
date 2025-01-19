@@ -33,6 +33,10 @@ header {
     grid-template-rows: 2fr 1fr;
 }
 
+h1 {
+    color: white;
+}
+
 #header-text-ai {
     color: red;
     font-size: 80px;
